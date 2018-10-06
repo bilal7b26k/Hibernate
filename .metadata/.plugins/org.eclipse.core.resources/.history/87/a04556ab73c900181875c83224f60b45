@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+	
+	<hibernate-mapping>
+		<property name="id" column="sid"></property>
+		<property name="name" column="sname"></property>
+		<property name="email" column="semail"></property>
+	
+	
+	
+	</hibernate-mapping>
